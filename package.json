@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^1.5.2",
-    "bluebird": "^3.2.2",
+    "bluebird": "^3.3.3",
     "csv-parse": "^1.0.1",
     "debug": "^2.2.0",
     "mock-aws-s3": "^2.1.0"
